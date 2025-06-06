@@ -5,4 +5,4 @@ install all the requirements create a .env file and paste your google gemini and
 
 DEMO VIDEO : https://drive.google.com/drive/folders/1FUyXR-f0ociVlTjJfFn_BvMEBlyJQGLK
 
-[ZENOVATEX HACKTHON R2.pptx](https://github.com/user-attachments/files/20622644/ZENOVATEX.HACKTHON.R2.pptx)
+PPT :[ZENOVATEX HACKTHON R2.pptx](https://github.com/user-attachments/files/20622644/ZENOVATEX.HACKTHON.R2.pptx)

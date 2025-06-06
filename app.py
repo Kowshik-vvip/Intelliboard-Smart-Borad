@@ -726,7 +726,7 @@ def search_youtube():
             # Use the Google API key from .env
             api_key = os.getenv("GOOGLE_API_KEY")
             if not api_key:
-                api_key = "AIzaSyDBRUZ-K3GNGESIrXE0Iw6cz3pGYN7YP3I"  # Fallback to the one in .env file
+                  # Fallback to the one in .env file
             
             # YouTube Data API v3 search endpoint
             url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&q={query}&type=video&maxResults=5&key={api_key}"
